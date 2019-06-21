@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <pthread.h>
 
-/*Specify number of each producer thread and consumer thread to create*/
+/*Specify number of each producer threads and consumer threads to create*/
 #define PRODUCERSANDCONSUMERS 8
 
 /*Specify maximum number of items to be produced by each producer thread*/
